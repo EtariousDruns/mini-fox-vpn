@@ -1,5 +1,7 @@
 # mini-fox-vpn
 
+<img src="https://github.com/EtariousDruns/mini-fox-vpn/blob/main/mf.png"/>
+
 *Secure VPN - MiniFox VPN is a free-to-use privacy and security software created by MiniFox LTD. This VPN is designed to help internet users protect their data and privacy even when connected to public networks. It shields users from an invasion of online privacy and hides them from cyber criminals*
 
 *MiniFox VPN aims to help users unblock or bypass blocked apps such as Telegram, WhatsApp, YouTube, Twitter, Snapchat, Facebook, and more. It’s created to be as beginner-friendly as possible. It has a set of features that allows mobile users to connect to a VPN without a lot of tinkering*
@@ -16,3 +18,4 @@
 
 +  Decent speeds
 
+<img src="https://github.com/EtariousDruns/mini-fox-vpn/blob/main/d1.png"/>
